@@ -25,7 +25,7 @@ Passionate about scalable applications, agile methodologies, software architectu
 
 # 🛠️ Tech Stack
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=cs,java,js,nodejs,angular,html,css,solidity,git,github" />
 </p>
 
@@ -57,6 +57,7 @@ Passionate about scalable applications, agile methodologies, software architectu
 
 - 🔗 Advanced Blockchain Development
 - 🏗️ Clean Architecture
+- ☁️ Cloud & DevOps Concepts
 - ⚡ Performance Optimization
 - 🧠 Design Patterns & Best Practices
 
@@ -64,29 +65,32 @@ Passionate about scalable applications, agile methodologies, software architectu
 
 # 📌 Areas of Interest
 
-✨ Full Stack Development  
 ✨ Software Architecture  
 ✨ Web3 & Blockchain  
-✨ Agile Product Development 
+✨ Agile Product Development  
+✨ Neurotechnology 
+✨ Digital Health & HealthTech  
+✨ Human-Centered Technology
 ✨ Technical Leadership  
 
 ---
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=noelialuz&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noelialuz&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
+
 # 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/">
+<p align="left">
+  <a href="https://www.linkedin.com/](https://www.linkedin.com/in/noelia-luz-fernandez-03404440/">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/noelialuz">
     <img src="https://skillicons.dev/icons?i=github"/>
   </a>
 </p>
@@ -95,7 +99,7 @@ Passionate about scalable applications, agile methodologies, software architectu
 
 # 🚀 Featured Technologies
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
@@ -103,14 +107,6 @@ Passionate about scalable applications, agile methodologies, software architectu
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge"/>
 </p>
 
 ---
