@@ -68,30 +68,21 @@ Passionate about scalable applications, agile methodologies, software architectu
 ✨ Software Architecture  
 ✨ Web3 & Blockchain  
 ✨ Agile Product Development  
-✨ Neurotechnology 
+✨ Neurotechnology  
 ✨ Digital Health & HealthTech  
-✨ Human-Centered Technology
+✨ Human-Centered Technology  
 ✨ Technical Leadership  
-
----
-
-# 📊 GitHub Stats
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=noelialuz&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noelialuz&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
 # 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/](https://www.linkedin.com/in/noelia-luz-fernandez-03404440/">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  <a href="https://www.linkedin.com/in/noelia-luz-fernandez-03404440" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/noelialuz">
-    <img src="https://skillicons.dev/icons?i=github"/>
+  <a href="https://github.com/noelialuz" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
   </a>
 </p>
 
