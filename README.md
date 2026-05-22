@@ -57,7 +57,6 @@ Passionate about scalable applications, agile methodologies, software architectu
 
 - 🔗 Advanced Blockchain Development
 - 🏗️ Clean Architecture
-- ☁️ Cloud & DevOps Concepts
 - ⚡ Performance Optimization
 - 🧠 Design Patterns & Best Practices
 
@@ -68,8 +67,7 @@ Passionate about scalable applications, agile methodologies, software architectu
 ✨ Full Stack Development  
 ✨ Software Architecture  
 ✨ Web3 & Blockchain  
-✨ Agile Product Development  
-✨ DevOps & Resilience  
+✨ Agile Product Development 
 ✨ Technical Leadership  
 
 ---
@@ -82,23 +80,6 @@ Passionate about scalable applications, agile methodologies, software architectu
 </p>
 
 ---
-
-# 🔥 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
